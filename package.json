@@ -1,0 +1,20 @@
+{
+  "name": "radu-polls",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --base '/static/'",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "npm": "^7.20.1",
+    "vue": "^3.0.5",
+    "@vue/compat": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.4.3",
+    "vite-plugin-vue2": "^1.7.3"
+  }
+}
